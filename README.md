@@ -14,9 +14,9 @@ Except programming and tech, I like to listen to music and video editing a lot
 ## Tech I know
 <code><img title="PYTHON" height="25" src="https://www.python.org/static/img/python-logo@2x.png"></code>
 <code><img title="Java" height="25" src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg"></code>
-<code><img title="VueJS" height="25" src="https://upload.wikimedia.org/wikipedia/commons/9/95/Vue.js_Logo_2.svg"></code>
+<code><img title="Django" height="25" src="https://static.djangoproject.com/img/logo-django.42234b631760.svg"></code>
 
-There are a lot of other things I know of but not listing because I am kind of beginner in that!
+and some basics of mongodb,oracledb (sql), reactjs, nodejs, expressjs, there are a lot of other things I know of but not listing because I am kind of beginner in that!
 
 <!-- Past Projects showcase -->
 
