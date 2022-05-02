@@ -4,7 +4,7 @@
 
 <a href="https://www.instagram.com/ram_csd/"><img src="https://img.shields.io/badge/-@ram_csd-purple?style=flat&logo=Instagram&logoColor=white&link=https://www.instagram.com/ram_csd/" height="30"/></a> &nbsp;
 
-<a href="https://www.youtube.com/c/MadNit"><img src="https://img.shields.io/badge/-@GENERAL-MADNIT-c14438?style=flat&logo=Youtube&logoColor=white&link=https://www.youtube.com/c/MadNit" height="30"/></a> 
+<a href="https://www.youtube.com/c/MadNit"><img src="https://img.shields.io/badge/-@GENERAL-MADNIT-c14438?style=flat&logo=Youtube&logoColor=white&link=https://www.youtube.com/c/MadNit" alt="My Youtube Channel" height="30"/></a> 
 
 
 I am a Data Science :computer: from India. Currently studying in [@KKR & KSR INSTITUTE OF TECHNOLOGY AND SCINECES](https://kitsguntur.ac.in/site/kits.php) . I am enthusiastic student to learn new things, at present I am learning the full stack development. I have completed my Intermediate / 12 th in Sri Chaitanya Junior College Guntur and my tenth in [@LITTLE FLOWER SCHOOL GUNTUR](http://littleflowerguntur.com/)
