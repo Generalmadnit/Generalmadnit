@@ -1,4 +1,4 @@
-# Hi <!-- <a href="http://www.aayushsinha.com/"> --><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"></a>, I am Nitin Pathuri
+# Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"></a>, I am Nitin Pathuri
 
 <a href="https://www.linkedin.com/in/nitin-pathuri/" target="_blank"><img src="https://img.shields.io/badge/-@nitin_pathuri-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nitin-pathuri/" height="30"/></a> &nbsp;
 
