@@ -34,7 +34,3 @@ Here are some ideas to get you started:
 Here is a secret footage of me working. :point_down:
 
 <img src="https://media.giphy.com/media/bAplZhiLAsNnG/giphy.gif" />
-
-Here are my Github stats. :octocat:
-
-[![Nitin's Github Stats](https://github-readme-stats.vercel.app/api?username=generalmadnit&show_icons=true&theme=tokyonight&private=true)](https://github-readme-stats.vercel.app/api?username=generalmadnit&show_icons=true&theme=tokyonight&private=true)
