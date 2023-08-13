@@ -6,7 +6,7 @@
 
 
 
-I am a Data Science student :computer: from India. I am studying at [@KKR & KSR INSTITUTE OF TECHNOLOGY AND SCINECES](https://kitsguntur.ac.in/site/kits.php). I am an enthusiastic student to learn new things, at present, I am learning full stack development. I have completed my Intermediate / 12th in Sri Chaitanya Junior College Guntur and my tenth in [@LITTLE FLOWER SCHOOL GUNTUR](http://littleflowerguntur.com/)
+I am a Data Science student :computer: from India. I am studying at [@KKR & KSR INSTITUTE OF TECHNOLOGY AND SCINECES](https://kitsguntur.ac.in/site/kits.php). I am an enthusiastic student to learn new things, at present, I am learning full stack development. I have completed my Intermediate / 12th in [Sri Chaitanya Junior](https://srichaitanya.net/) College Guntur and my tenth in [@LITTLE FLOWER SCHOOL GUNTUR](http://littleflowerguntur.com/)
 
 Except for programming and tech, I like to listen to music and video editing a lot 
 
