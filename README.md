@@ -29,6 +29,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: Him
 - ⚡ Fun fact: fast learner
 -->
+My most used languages are 
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=generalmadnit&show_icons=true&locale=en&layout=compact"/>
+
+My current stats are
+<img src="https://github-readme-stats.vercel.app/api?username=generalmadnit&show_icons=true&locale=en"/>
+
+My Contributions
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=generalmadnit&"/>
 
 ## That's, it for now
 Here is a secret footage of me working. :point_down:
