@@ -4,11 +4,8 @@
 
 <a href="https://www.instagram.com/ram_csd/" target="_blank"><img src="https://img.shields.io/badge/-@ram_csd-purple?style=flat&logo=Instagram&logoColor=white&link=https://www.instagram.com/ram_csd/" height="30"/></a> &nbsp;
 
-
-
-I am a Data Science student :computer: from India. I am studying at [@KKR & KSR INSTITUTE OF TECHNOLOGY AND SCINECES](https://kitsguntur.ac.in/site/kits.php). I am an enthusiastic student to learn new things, at present, I am learning full stack development. I have completed my Intermediate / 12th in [Sri Chaitanya Junior](https://srichaitanya.net/) College Guntur and my tenth in [@LITTLE FLOWER SCHOOL GUNTUR](http://littleflowerguntur.com/)
-
-Except for programming and tech, I like to listen to music and video editing a lot 
+I am Software Engineer working on Java and Generative AI, along with that I am working on projects with stack of AI or Data Science, apart from Tech, I love to listen to music and VFX 
+diting a lot 
 
 ## Tech I know
 ### Skills
@@ -27,23 +24,24 @@ Except for programming and tech, I like to listen to music and video editing a l
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on a Blockchain project
-- 🌱 I’m currently learning Scala and new Blockchain possibilities
-- 👯 I’m looking to collaborate on Scala, Java, and Python OpenCV projects
-- 🤔 I’m looking for help with Fullstack development
-- 💬 Ask me about my strengths
-- 📫 How to reach me: <a href="mailto:pathurinitin@gmail.com">Mail me </a>
-- 😄 Pronouns: Him
-- ⚡ Fun fact: fast learner
+- 🔭 I’m currently working on a Java, AI and Data Science projects
+- 🌱 I’m currently learning Scala and Go lang
+- 👯 I’m looking to collaborators on Scala, Java, Generative AI, AI, Data Science and Python projects
+- 🤔 I’m looking for collaborators with new problems that can be solved by using software
+- 💬 Ask me about my strengths or for a collaboration
+- 📫 How to reach me: <a href="mailto:pathurinitin@gmail.com">Mail me (Nitin Pathuri)</a>
+- 😄 Pronouns: He / Him
+- ⚡ Fun fact: I'm passionate about movies to the extent that I built my own movie recommendation system and even analyzed how many times I've rewatched my favorites.
+
 -->
-My most used languages are 
+My most used languages are <br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=generalmadnit&show_icons=true&locale=en&layout=compact"/>
 
-My current stats are
+My current stats are <br>
 <img src="https://github-readme-stats.vercel.app/api?username=generalmadnit&show_icons=true&locale=en"/>
 
-My Contributions
+My Contributions <br>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=generalmadnit&"/>
 
-## That's, it for now. Hope to work with you soon
+## That's, it for now. Hope to work with you soon | Social media handles 👇
 <a href="https://www.linkedin.com/in/nitin-pathuri" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/MadNit2" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
